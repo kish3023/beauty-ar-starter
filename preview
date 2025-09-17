@@ -1,8 +1,1 @@
----
-
-### 🔹 5. `public/favicon.ico`
-(empty file is fine, or you can add any `.ico` file later)
-
----
-
-### 🔹 6. `public/robots.txt`
+npm run preview
