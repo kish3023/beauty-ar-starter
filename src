@@ -1,0 +1,8 @@
+export default function App() {
+  return (
+    <div style={{textAlign: 'center', marginTop: '50px'}}>
+      <h1>Beauty AR Starter</h1>
+      <p>AR Try-on coming soon...</p>
+    </div>
+  )
+}
